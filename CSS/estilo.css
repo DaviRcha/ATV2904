@@ -73,5 +73,104 @@ h2{
 }
 
 #ajImgSobre{
-    width: 350px;
+   
+    height: 350px;
+}
+
+/*Section 02 Serviços*/
+#ContainerServicos{
+    background-color: rgb(240,249,117);
+    width: 100%;
+    height: 500px;
+}
+
+#Servicos{
+    /*background-color: #ed5dbd;*/
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+    
+}
+
+.qdServ{
+    /*background-color: blue;*/
+    width: 300px;
+    height: 375px;
+    float: right;
+    margin: 75px 25px 0 0; 
+}
+
+.imgServ{
+    /*background-color: aquamarine;*/
+    width: 250px;
+    height: 200px;
+    margin: 25px 0 0 25px;
+}
+
+.img{
+    width: 250px;
+    height: 200px;
+    
+}
+
+.DescricaoImg{
+    padding: 5px 0 0 10px;
+}
+
+#Contatos{
+    background-color: cadetblue;
+    width: 1000px;
+    height: 400px;
+    margin: auto;
+}
+
+#HisRod{
+    background-color: #8a2be2;
+    width: 600px;
+    height: 370px;
+    float: right;
+    margin: 15px 15px 0 0;
+}
+
+#NomeSite{
+    background-color: aquamarine;
+    width: 450px;
+    height: 50px;
+    float: right;
+    margin: 15px 68px 0 0;
+
+
+}
+
+#Mapa{
+    background-color: brown;
+    width: 300px;
+    height: 370px;
+    float: left;
+    margin: 15px 0 0 15px;
+}
+
+#hitoria{
+    background-color: rgb(19, 126, 90);
+    width: 450px;
+    height: 230px;
+    margin: 80px 0 0 82px;
+
+}
+
+#Direitos{
+    background-color:chartreuse ;
+    width: 450px;
+    height: 30px;
+    float: right;
+    margin: 15px 68px 0 0;
+}
+
+#Nome{
+    font-family: cursive;
+    padding: 0 0 0 168px;
+}
+
+#TituloRodape{
+    margin: 0 0 0 175px;
 }
